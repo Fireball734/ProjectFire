@@ -2,11 +2,15 @@
 An Indie Platformer Game Inspired by Wario Land 4
 
 # Version 0.0.0.0
+
 Initial version, download with this link, and run the exe: https://drive.google.com/drive/folders/19fYueFG91qH4Gx-bEFIhZZwzBX0V1KwM?usp=drive_link
 
 ## CONTROLS
+
 Left Arrow - Run left
+
 Right Arrow - Run right
+
 Spacebar - Jump
 
 
